@@ -13,7 +13,7 @@ Make your GitHub history back to any year.
 Run the following script
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/mugishap/commit-time-travel-machine/main/index.sh)"
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/mugishap/commit-time-travel-machine/master/index.sh)"
 ```
 
 Enter Year, GitHub username, Github repo name, and access token and then you are done :)
